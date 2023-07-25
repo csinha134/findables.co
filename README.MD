@@ -70,6 +70,7 @@ To run the Findables.co project locally on your machine, follow these steps:
 
 Contributions to the Findables.co project are welcome! If you find any issues or want to add new features, feel free to submit a pull request.
 
+Link for backend : (https://github.com/csinha134/findables-backend)
 Before contributing, make sure to:
 
 - Fork the repository and create a new branch for your feature or bug fix.
