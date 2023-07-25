@@ -77,7 +77,7 @@ Before contributing, make sure to:
 
 ## Contact
 
-For any questions or inquiries related to the Findables.co project, you can reach out to Chayan Sinha at chayan@example.com or visit the project repository on GitHub: [https://github.com/chayan/findables.co](https://github.com/chayan/findables.co).
+For any questions or inquiries related to the Findables.co project, you can reach out to Chayan Sinha at chayan@example.com or visit the project repository on GitHub: [https://github.com/csinha134/findables.co].
 
 ---
 
