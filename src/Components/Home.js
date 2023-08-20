@@ -22,7 +22,7 @@ import mail from "../img/mail.svg";
 import feature from "../img/feature.svg";
 import divyang from "../img/divyang.png"
 import chayan from "../img/chayan.png"
-import bhanvi from "../img/bhanvi.png"
+import manik from "../img/manik.png"
 // import image from "../img/earth.svg";
 import { Container, Row, Button, Form } from "react-bootstrap";
 export default function Home() {
@@ -197,13 +197,13 @@ export default function Home() {
               
                 <div className="info profile"  style={{ width: "30rem" }}>
                   <img id="dev"
-                    src={bhanvi}
+                    src={manik}
                     style={{ width: "20rem", height: "20rem" }}
                     alt=""
                   />
-                  <h4 id="name">BHANVI GAUTAM</h4>
+                  <h4 id="name">MANIK CHADHA</h4>
                   <p>
-                  BACKEND DEVELOPER
+                  ML & FRONTEND DEVELOPER
                   </p>
                 </div>
 
