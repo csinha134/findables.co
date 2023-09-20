@@ -183,6 +183,20 @@ export default function Home() {
               <div className="about-card">
                 <div className="info profile"  style={{ width: "30rem"}}>
                   <img id="dev"
+                    src={divyang}
+                    style={{ width: "20rem", height: "20rem" }}
+                    alt=""
+                  />
+                    <div class="content">
+                        Additional content to display on hover.
+                    </div>
+                  <h4 id="name">DIVYANG PANDOH</h4>
+                  <p>FULL STACK DEVELOPER</p>
+                  
+                </div>
+
+                <div className="info profile"  style={{ width: "30rem"}}>
+                  <img id="dev"
                     src={chayan}
                     style={{ width: "20rem", height: "20rem" }}
                     alt=""
