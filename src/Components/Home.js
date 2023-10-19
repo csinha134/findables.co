@@ -190,8 +190,8 @@ export default function Home() {
                     <div class="content">
                         Additional content to display on hover.
                     </div>
-                  <h4 id="name">DIVYANG PANDOH</h4>
-                  <p>FULL STACK DEVELOPER</p>
+                  <h4 id="name">PARTH VOHRA</h4>
+                  <p>FRONTEND DEVELOPER</p>
                   
                 </div>
 
